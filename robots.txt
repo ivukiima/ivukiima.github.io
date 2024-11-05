@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ivukiima.github.io/KtE/sitemap_index.txt
+Sitemap: https://ivukiima.github.io/UdR/sitemap_index.txt
+Sitemap: https://ivukiima.github.io/dQq/sitemap_index.txt
+Sitemap: https://ivukiima.github.io/qIH/sitemap_index.txt
